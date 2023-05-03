@@ -1,0 +1,16 @@
+id: 
+title: 
+siverity/priority: 
+status: 
+assignee: 
+environment: 
+description: 
+precondition: 
+STR: 
+ 1. 
+ 2. 
+ 3. 
+ 4. 
+AR: 
+ER: 
+attachment: 
