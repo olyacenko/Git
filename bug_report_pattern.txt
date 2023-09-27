@@ -1,0 +1,16 @@
+id: 1 
+title: issue with displaying an author's name on detailed story page of my-stories.
+siverity/priority: minor/low
+sttus: to do
+assignee: front end developer
+environment: [DEV|https://link-to-dev.web.app/login], Safari virsion 15.6.1
+description: Author of a story can see own name and avatar on the detailed story page of my-stories. According to [Figma|https://www.figma.com/file] design author should not see own name
+precondition: create your own story or use: username: ollyatsenko@example.com, password: 123456
+STR: 
+ 1. Log in to the platform
+ 2. go to my-stories page
+ 3. tap on any story
+ 4. pay attention to the avatar and name of story's author under title of the story
+AR: The author's name and avatar are displayed below the story's title.
+ER: The author's name and avatar are not displayed below the story's title.
+attachment: https://prnt.sc/vcm9PS5ZGmzd
